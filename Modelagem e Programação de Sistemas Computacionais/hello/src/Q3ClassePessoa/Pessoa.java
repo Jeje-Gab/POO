@@ -24,6 +24,7 @@ public class Pessoa {
 
     // Recebe um novo nome por parametro e altera o valor presente em nome para o novo recebido
     public void setNome(String nome) {
+
         this.nome = nome;
     }
 
